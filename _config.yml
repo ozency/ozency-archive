@@ -1,14 +1,14 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Aden HR Consultancy
+#description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://www.adenconsultancy.net/
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Aden
+user_description: Aden HR Consultancy is a recruitment consultancy, located in United Kingdom. We offer our clients a comprehensive search to find and attract best candidates. Our aim is to bring them together with happy employees who are perfect fit. Our difference is that we provide a human-oriented approach while providing Human Resources services that will help business partners achieve their strategic priorities quickly and effectively. Reflecting its values without compromising all the projects it carries out, Aden HR Consultancy aims to establish long-term and trusting relationships with both business partners and candidates. We are always here to support your business whether you are at the very beginning of your journey as a start up or you are a leading company in your industry.
+user_title: HR Consultancy
+email: contact@adenconsultancy.net
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
